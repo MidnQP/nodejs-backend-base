@@ -1,12 +1,8 @@
 <p align=center>
-<img height=auto width=400 src="https://user-images.githubusercontent.com/90899789/175958801-35e9eb1a-c26c-4f2c-9e92-734862b15db0.png"/>
-</p>
-
-<p align=center>
 	<img heigh=auto width=400 src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png"/>
 	<p align=center><b>D E V &nbsp;&nbsp;&nbsp; G U I D E L I N E S</b></p>
 </p>
-<hr></hr>
+<!--hr></hr-->
 
 <img height=450px width=auto src=https://user-images.githubusercontent.com/90899789/177304942-f50b8073-cd1c-4e18-9f6c-281903d4a710.gif />
 
